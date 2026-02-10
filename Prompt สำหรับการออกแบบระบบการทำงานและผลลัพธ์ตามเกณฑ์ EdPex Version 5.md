@@ -1,20 +1,19 @@
-
-Prompt สำหรับการออกแบบระบบการทำงานและผลลัพธ์ตามเกณฑ์ EdPex Version 5
-อธิบายส่วนประกอบของ Prompt 
+##Prompt สำหรับการออกแบบระบบการทำงานและผลลัพธ์ตามเกณฑ์ EdPex Version 5
+###อธิบายส่วนประกอบของ Prompt 
 5 Parts ส่วนของ Prompts
 1.	Persona ใคร Identify your role 
-2. 	Purpose กำหนดวัตถุประสงค์
+2. Purpose กำหนดวัตถุประสงค์
 2.	Aim ทำอะไร ทำไม State your objective
 3.	Recipients ให้ใคร Specify the audience
 4.	Theme แบบไหน Describe the style, tone, any related parameters
 5.	Structure ผลเป็นอย่างไร Note the desired format of the output
-STEP 1 
+###STEP 1 
 ใส่ File และข้อมูลต่อไปนี้
 1.	คู่มือ EdPex 
 2.	โครร่างองค์กร OP และสรุป
-3.	 Website ขององค์กร 
+3.	Website ขององค์กร 
 4.	ข้อมูลอื่นๆ  เช่น รายงานประจำปี ข้อมูลอื่นๆ 
-STEP 1 ค้นหาแนวคิดทฤษฎี เพื่อจัดทำ Criteria Model
+###STEP 1 ค้นหาแนวคิดทฤษฎี เพื่อจัดทำ Criteria Model
 คุณคือผู้เชี่ยวชาญด้านการพัฒนาคุณภาพองค์กรระดับโลกตามเกณฑ์ EdPEx และ TQA ที่มีประสบการณ์ในการทำงานด้านคุณภาพมากกว่า 10 ปี ของคณะ......มหาวิทยาลัย....... ต้องการออกแบบระบบการทำงานที่ตอบสนองคำถามระดับ Basic Questions ในข้อ….……….. ช่วยเขียนแนวคิด ทฤษฎีทางการบริหาร หรือ Best Practice ที่น่าจะนำมาใช้ในการออกแบบ Criteria Model ที่มีความทันสมัย สามารถใช้ได้จริงเชิงการปฏิบัติการ
 
 STEP 2 สร้าง Criteria Models
